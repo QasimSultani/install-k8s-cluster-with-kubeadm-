@@ -3,7 +3,7 @@
 <head>
 </head>
 <body>
-<h1>How to set up a Kubernetes cluster</h1>
+<h1>How to set up a Kubernetes cluster with kubeadm</h1>
 <p>Kubernetes is a popular container orchestration platform that automates the deployment, scaling, and management of containerized applications. In this tutorial, we will go through the steps to set up a Kubernetes cluster on Ubuntu using kubeadm.</p>
 <h2>Step 1: Install Kubernetes</h2>
 <p>The first step is to install Kubernetes on each server. Here are the commands to do that:</p>
@@ -85,3 +85,5 @@ Copy the command to run on the worker nodes and save it in a notepad file. Then,
 
   </pre>
 
+<h4>Here is link of my profile if you face any problem DM here!!</h4>
+https://www.linkedin.com/in/muhammad-qasim-sultani/
